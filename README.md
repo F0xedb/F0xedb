@@ -37,12 +37,12 @@ I’m currently working on my operating system : *https://tos.odex.be*
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=F0xedb&show_icons=true&hide_border=true)
 
 
-### 🔭 2020 Goal
-Expanding the userbase and functionality of `TOS`
+### 🔭 2022 Goal
+Expanding the functionality of `TOS`
 
 
 ### ☕ Get In Touch
-- [Personal Site](https://www.odex.be)
+- [Personal Site](https://tos.odex.be)
 
 
 ⭐️ From [F0xedb](https://github.com/F0xedb)
